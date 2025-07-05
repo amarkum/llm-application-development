@@ -747,8 +747,8 @@ class LLMSafetySystem:
 
 ### GitHub Portfolio Structure:
 ```
-your-github-username/
-├── llm-portfolio/
+amarkum/
+├── llm-application-development/
 │   ├── 01-basic-chatbot/
 │   ├── 02-document-qa/
 │   ├── 03-rag-system/
